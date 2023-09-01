@@ -1,7 +1,7 @@
 ### Olá ,
-### Me chamo Mateus Amelio, sou estudante de ciência da computação(me formo em dez-2023).
-- 🔭 Atualmente tenho focado no projeto: https://github.com/minacio00/TournamentManager
-- 🌱 Tenho estudado principalmente Golang.
+### Me chamo Mateus Amelio, sou estudante de ciência da computação(me formo em jun-2024).
+- 🔭 Atualmente tenho focado no projeto: -
+- 🌱 Tenho estudado principalmente Golang e .net.
 <!--
 **minacio00/minacio00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
