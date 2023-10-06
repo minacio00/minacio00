@@ -2,6 +2,10 @@
 ### Me chamo Mateus Amelio, sou estudante de ciência da computação(me formo em jun-2024).
 - 🔭 Atualmente tenho focado no projeto: [JornadaMilhas](https://github.com/minacio00/JornadaMilhas)
 - 🌱 Tenho estudado principalmente Golang e .net.
+
+### Hello, 
+### My name is Mateus, I'm a computer science graduate.
+### I love backend development.
 <!--
 **minacio00/minacio00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
