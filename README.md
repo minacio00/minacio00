@@ -1,11 +1,11 @@
 ### Olá ,
 ### Me chamo Mateus Amelio, sou desenvolvedor backend.
-- 🔭 Atualmente tenho focado no projeto: [JornadaMilhas](https://github.com/minacio00/JornadaMilhas)
+- 🔭 Atualmente tenho focado no projeto: [EasyCourt](https://github.com/minacio00/easyCourt)
 - 🌱 Tenho estudado principalmente angular.
 
 ### Hello, 
 ### My name is Mateus, I'm backend developer.
-- 🔭 I have been working on: [JornadaMilhas](https://github.com/minacio00/JornadaMilhas)
+- 🔭 I have been working on: [EasyCourt](https://github.com/minacio00/easyCourt)
 - - 🌱 I’m currently learning angular
 ### I love backend development.
 <!--
