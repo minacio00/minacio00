@@ -1,12 +1,12 @@
 ### Olá ,
 ### Me chamo Mateus Amelio, sou desenvolvedor backend.
 - 🔭 Atualmente tenho focado no projeto: [EasyCourt](https://github.com/minacio00/easyCourt)
-- 🌱 Tenho estudado principalmente angular.
+- 🌱 Tenho estudado principalmente Go.
 
 ### Hello, 
 ### My name is Mateus, I'm backend developer.
 - 🔭 I have been working on: [EasyCourt](https://github.com/minacio00/easyCourt)
-- - 🌱 I’m currently learning angular
+- - 🌱 I’m currently learning Go
 ### I love backend development.
 <!--
 **minacio00/minacio00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
